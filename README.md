@@ -41,7 +41,7 @@ grunt.initConfig({
 Type: `String`
 Default value: `buddha`
 
-指明是否佛祖还是神兽保佑我们的代码
+指明是佛祖还是神兽保佑我们的代码
 
 A string value that is used to do something with whatever.
 
